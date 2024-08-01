@@ -1,4 +1,3 @@
-- I'm babak alizadeh(morrning)
-- i like developing opens source application and linux too,
+- i like developing open source applications,
 - see my personal blog ad maddad.blogsky.com
-- see best opensource accounting software at hesabix.ir
+- see best open source accounting software at hesabix.ir
